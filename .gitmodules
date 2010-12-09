@@ -1,3 +1,9 @@
+[submodule "mongo"]
+	path = mongo
+	url = git://github.com/mongodb/mongo.git
+[submodule "node"]
+	path = node
+	url = git://github.com/ry/node.git
 [submodule "supports/ejs"]
 	path = supports/ejs
 	url = git://github.com/visionmedia/ejs.git
