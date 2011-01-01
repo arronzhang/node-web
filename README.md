@@ -9,6 +9,9 @@ Install
 	# Build bson
 	cd supports/node-mongodb-native
 	make
+	# Build iconv
+	cd supports/iconv
+	make install
 
 Includes
 --------------------------------------
@@ -43,6 +46,12 @@ Includes
 [Site](https://github.com/masylum/connect-mongodb)
 
 ###Email
+
+[Site](https://github.com/aheckmann/node-email)
+
+###Iconv
+
+[Site](https://github.com/bnoordhuis/node-iconv)
 
 [Site](https://github.com/aheckmann/node-email)
 
