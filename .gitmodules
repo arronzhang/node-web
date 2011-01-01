@@ -28,3 +28,6 @@
 [submodule "supports/email"]
 	path = supports/email
 	url = git://github.com/aheckmann/node-email.git
+[submodule "supports/iconv"]
+	path = supports/iconv
+	url = git://github.com/bnoordhuis/node-iconv.git
