@@ -46,4 +46,8 @@ Includes
 
 [Site](https://github.com/aheckmann/node-email)
 
+###Async
+
+[Site](https://github.com/caolan/async)
+
 

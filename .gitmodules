@@ -28,4 +28,7 @@
 [submodule "supports/email"]
 	path = supports/email
 	url = git://github.com/aheckmann/node-email.git
+[submodule "supports/async"]
+	path = supports/async
+	url = git://github.com/caolan/async.git
 
