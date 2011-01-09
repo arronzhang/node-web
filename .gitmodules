@@ -32,3 +32,9 @@
 	path = supports/async
 	url = git://github.com/caolan/async.git
 
+[submodule "supports/xml2js"]
+	path = supports/xml2js
+	url = git://github.com/maqr/node-xml2js.git
+[submodule "supports/sax-js"]
+	path = supports/sax-js
+	url = git://github.com/isaacs/sax-js.git
