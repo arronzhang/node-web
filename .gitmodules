@@ -4,37 +4,3 @@
 [submodule "node"]
 	path = node
 	url = git://github.com/ry/node.git
-[submodule "supports/ejs"]
-	path = supports/ejs
-	url = git://github.com/visionmedia/ejs.git
-[submodule "supports/jade"]
-	path = supports/jade
-	url = git://github.com/visionmedia/jade.git
-[submodule "supports/express"]
-	path = supports/express
-	url = git://github.com/visionmedia/express.git
-[submodule "supports/connect"]
-	path = supports/connect
-	url = git://github.com/senchalabs/connect.git
-[submodule "supports/node-mongodb-native"]
-	path = supports/node-mongodb-native
-	url = git://github.com/christkv/node-mongodb-native.git
-[submodule "supports/mongoose"]
-	path = supports/mongoose
-	url = git://github.com/LearnBoost/mongoose.git
-[submodule "supports/connect-mongodb"]
-	path = supports/connect-mongodb
-	url = git://github.com/masylum/connect-mongodb.git
-[submodule "supports/email"]
-	path = supports/email
-	url = git://github.com/aheckmann/node-email.git
-[submodule "supports/async"]
-	path = supports/async
-	url = git://github.com/caolan/async.git
-
-[submodule "supports/xml2js"]
-	path = supports/xml2js
-	url = git://github.com/maqr/node-xml2js.git
-[submodule "supports/sax-js"]
-	path = supports/sax-js
-	url = git://github.com/isaacs/sax-js.git
