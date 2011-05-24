@@ -10,7 +10,7 @@ ROOT_PATH=$(cd "$(dirname "$0")"; pwd)
 cd ${ROOT_PATH}/node
 git checkout master
 git pull
-git checkout v0.4.7
+git checkout v0.4.8
 ./configure
 make
 make install
@@ -22,7 +22,7 @@ echo "Start install MongoDB..."
 cd ${ROOT_PATH}/mongo
 git checkout master
 git pull
-git checkout r1.8.1
+git checkout r1.9.0
 scons all
 scons install
 
